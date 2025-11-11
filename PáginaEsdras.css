@@ -1,0 +1,25 @@
+body {
+      background-image: url(css-pattern-by-magicpattern.png);  
+}
+
+body h1 {
+      text-align: center;
+      font-family: "Unbounded", sans-serif;
+      font-size: 45px;
+      font-style:normal;
+}
+
+/* Titulos de Fotos */
+body h2 {
+      font-family: "Unbounded", sans-serif;
+      font-size: 23px;
+      font-style:normal;
+}
+
+/* Enlaces */
+body a {
+      font-family: "Geist", sans-serif;
+      font-size: 20px;
+      font-style:normal; 
+      color: #0f4ed6;
+}
